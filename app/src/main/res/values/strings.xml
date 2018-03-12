@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BolBrowser</string>
+    <string name="master_activity">Producten</string>
+    <string name="search_product">Zoeken...</string>
+</resources>
