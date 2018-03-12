@@ -1,2 +1,4 @@
 # BolBrowser
-BolBrowser - Bol.com API
+Bol.com Android product browser.
+
+Made by using the bol.com REST API.
