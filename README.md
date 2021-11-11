@@ -1,5 +1,5 @@
 # BolBrowser
-Bol.com Android product browser. Made in order to learn Android
+Bol.com Android product browser. Made in order to learn Android.
 
 Made by using the bol.com REST API.
 
